@@ -349,7 +349,7 @@ header .menu a {
 .project-year {
     width: 100%;
 }
-.text-color-brown {
+.project-year .text-color-brown {
 
     color: #878683;
     font-size: 1.125rem;
